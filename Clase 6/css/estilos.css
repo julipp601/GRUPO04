@@ -1,0 +1,16 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color:blue;
+}
+p{
+    color:#457b9d;
+}
+.tarjeta{
+    border: 10px solid green;
+    background-color: #f1faee;
+    text-align: center;
+}
