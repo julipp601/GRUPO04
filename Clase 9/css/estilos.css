@@ -1,0 +1,16 @@
+h1{
+
+    text-align: center;
+    color: lightslategray;
+}
+
+div{
+    padding: 10px;
+    border: 15px solid #457b9d;
+    margin: auto;
+    background-color: aquamarine;
+    max-width: 300px;
+    max-height: 100px;
+    
+
+}
