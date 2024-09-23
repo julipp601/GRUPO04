@@ -53,3 +53,7 @@ nav ul li a:hover {
     color: #ffe600; 
 }
 
+img {
+    max-width: 90%;
+    margin: 20px;
+}

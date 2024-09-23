@@ -61,3 +61,8 @@ main a:hover {
     background: #ff6f00; 
 }
 
+img {
+    display: inline-block;
+    margin: 10px;
+    border-radius: 8px;
+}
