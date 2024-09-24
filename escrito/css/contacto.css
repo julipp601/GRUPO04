@@ -10,7 +10,6 @@ body {
     padding: 0 20px;
 }
 
-
 header {
     background: linear-gradient(90deg, #e60012, #ff6f00); 
     color: #fff;
@@ -40,7 +39,6 @@ nav ul li a {
 nav ul li a:hover {
     color: #ffe600; 
 }
-
 
 h2 {
     text-align: center;
