@@ -66,3 +66,9 @@ img {
     margin: 10px;
     border-radius: 8px;
 }
+
+i:hover{
+
+    color: red;
+
+}
